@@ -14,3 +14,12 @@ It went well and helped me learn about how to use KiCad.
 
 ![Capture](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTcyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--77a9ed855546ca71f81095e083536d5a7733cc50/Capture.PNG)  
 
+## 11/1/2025 - Made Rotary Encoders  
+
+Created Rotary Encoders for my MIDI board. 
+It is going well, however I am confused on how everything works. As I am new to Electronics, I am unsure as to whether or not it will work when it comes to testing (or even how to test it)
+I will try to continue as best I can to create a Musical Instrument
+
+![Capture](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--317386db7b7b29af88e72583a9a398c936873a1c/Capture.PNG)
+  
+
